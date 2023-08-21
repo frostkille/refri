@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: darkgrey;
+    display: inline-block;
+}
+.texto-1{
+    margin: 0 28px;
+    font-size: 28px;
+    display: flex;
+    display: inline-block;
+}
+.imagem-1{
+    display: flex;
+}
